@@ -4,9 +4,9 @@
 
 ### 📌 About Me
 
-- [ ] I was born on July 11, 2005.
+- [x] I was born on July 11, 2005.
 - [x] I am a student at Danang University of Technology.
-- [ ] I am interested in web development.
+- [x] I am interested in web development.
 
 ---
 
